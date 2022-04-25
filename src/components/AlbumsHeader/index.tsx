@@ -9,7 +9,7 @@ const AlbumsHeader: React.FC<any> = ({ artistName, artistsRate, artistImage }) =
             </div>
 
             <div className="name">
-                <span className='artistName'>{artistName}</span>
+                <span className='artistName'>{artistName}.</span>
                 <span className='artistRate'> <span className='start'>★</span>{artistsRate}</span>
             </div>
         </div>
