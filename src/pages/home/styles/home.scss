@@ -1,0 +1,23 @@
+.container {
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding-top: 60px;
+}
+
+.container-home {
+    padding: 20px 0px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding-top: 60px;
+}
+
+
+.loader{
+    width: 100vw;
+    height: 79vh;
+}
